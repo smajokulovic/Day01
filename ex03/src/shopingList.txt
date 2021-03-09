@@ -4,3 +4,4 @@ Shoping list:
 -Bananas;
 -Cherries;
 -Carrots;
+-Strawberries;
